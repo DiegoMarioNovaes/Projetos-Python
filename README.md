@@ -1,6 +1,3 @@
-# Projetos-Python
-Projetos pessoais feitos em Python.
-
 🏠Calculadora de Telhas em Python 
 
 Este projeto é uma aplicação simples em Python que calcula quantas telhas um cliente precisará para cobrir um telhado, utilizando conceitos fundamentais da linguagem.
