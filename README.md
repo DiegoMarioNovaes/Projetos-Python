@@ -38,3 +38,33 @@ math
 Tratamento de caracteres (lower, strip)
 
 Biblioteca math para arredondamento
+
+📐 Tipos de Telha Suportados
+Tipo de Telha	Rendimento por m²
+Cerâmica	16 telhas/m²
+Fibrocimento	2 telhas/m²
+Metálica	1 telha/m²
+
+🎯 Objetivo do Projeto
+
+Este projeto foi criado com fins educativos, aplicando:
+
+Modularização
+
+Estruturas condicionais
+
+Loops
+
+Entrada e validação de dados
+
+Uso de dicionários
+
+Biblioteca externa
+
+Ideal para iniciantes que desejam praticar lógica e organização de código.
+
+👤 Autor
+
+Diego Mário
+
+Se quiser melhorar este projeto, fique à vontade para contribuir! 😄
